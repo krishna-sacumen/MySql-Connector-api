@@ -1,7 +1,7 @@
 package com.bigid.connector;
 
 public class MySqlConfig {
-	
+	//
 
 	public static String AUTH_URL = "api/v1/sessions";
 	public static String FLUSH_URL = "api/v1/flush";
